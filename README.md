@@ -40,3 +40,23 @@ Expected signal keys (JSON input):
 - Add live Exchange Online cmdlet ingestion mode.
 - Add HTML report mode for incident handoff.
 - Add Pester tests for branch correctness.
+
+## SEO & AI Search Keywords
+**Primary search title:** Hybrid Routing Drift Check for Exchange
+
+**Target keywords:**
+- exchange hybrid mail flow issue
+- connector drift troubleshooting
+- hybrid routing diagnostics
+- exchange online onprem connector health
+
+**High-intent AI search questions:**
+- How to troubleshoot Exchange hybrid routing drift?
+- Why connectors fail after config changes?
+- How to validate hybrid transport path?
+
+**On-page SEO notes:**
+- Keep issue-first headings (problem -> diagnosis -> next step).
+- Include command examples with realistic placeholders only.
+- Repeat key terms naturally in H1/H2, intro, and troubleshooting sections.
+- Add incident outcome language: root cause, remediation, validation, prevention.
